@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "143715742191",
+    "project_id": "quickcart-261ef",
+    "storage_bucket": "quickcart-261ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143715742191:android:b304d106ff6653467f861a",
+        "android_client_info": {
+          "package_name": "com.example.jobdotcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143715742191-0vife2ng9b93s7jqnmr9ttjfcg71j662.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMRaA7_3nSDHDPsg6joD55R9f-hqh8kvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143715742191-0vife2ng9b93s7jqnmr9ttjfcg71j662.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "143715742191-aqg718ilgg6sp9eclerb11vpcj2bbj4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quickCart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143715742191:android:47cbdc8bfc8d59687f861a",
+        "android_client_info": {
+          "package_name": "com.example.quick_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143715742191-0vife2ng9b93s7jqnmr9ttjfcg71j662.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMRaA7_3nSDHDPsg6joD55R9f-hqh8kvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143715742191-0vife2ng9b93s7jqnmr9ttjfcg71j662.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "143715742191-aqg718ilgg6sp9eclerb11vpcj2bbj4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quickCart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
